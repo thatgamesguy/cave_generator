@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: c736130bfc3b94e2aae18e1d18512679
+timeCreated: 1432376328
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: thinGrass_middle
+    21300002: thinGrass_top_middle
+    21300004: thinGrass_middle_right
+    21300006: thinGrass_top_right
+    21300008: thinGrass_bottom_middle
+    21300010: thinGrass_5
+    21300012: thinGrass_bottom_right
+    21300014: thinGrass_7
+    21300016: thinGrass_middle_left
+    21300018: thinGrass_top_left
+    21300020: thinGrass_10
+    21300022: thinGrass_11
+    21300024: thinGrass_bottom_left
+    21300026: thinGrass_13
+    21300028: thinGrass_14
+    21300030: thinGrass_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: thinGrass_middle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 284
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_top_middle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 272
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_middle_right
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_top_right
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 248
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_bottom_middle
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 235
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 223
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_bottom_right
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 211
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 199
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_middle_left
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 188
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_top_left
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 176
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 164
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 152
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_bottom_left
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 115
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thinGrass_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
